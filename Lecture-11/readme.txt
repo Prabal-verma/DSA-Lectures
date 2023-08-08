@@ -1,1 +1,0 @@
-notthing speacial just talke about time and space complexity
