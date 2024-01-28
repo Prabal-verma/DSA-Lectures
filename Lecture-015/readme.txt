@@ -4,7 +4,7 @@ Starting on 18-8-23
 2 sorting 
 
 Question Links:
-- Book Allocation Problem: https://bit.ly/3GiCqY0 
+- Book Allocation Problem: http s://bit.ly/3GiCqY0 
 - Aggressive Cows: https://bit.ly/3dkuQ2B 
 - Painter’s Partition Problem: https://bit.ly/31v3Jiy 
 - EKO SPOJ: https://www.spoj.com/problems/EKO/ 
