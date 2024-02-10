@@ -1,0 +1,1 @@
+only talked about time complexity
