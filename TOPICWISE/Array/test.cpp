@@ -16,7 +16,7 @@ int main(){
     // cout << "ENTER THE ELEMENTS OF FIRST ARRAY : " ;
     // while(i<n){
     //     cin >> arr1[i++] ;
-    // }
+    // }v
     // cout << "ENTER THE ELEMENTS OF SECOND ARRAY : " ;
     // while(j<m){
     //     cin >> arr2[j++] ;
