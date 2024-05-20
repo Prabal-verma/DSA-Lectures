@@ -57,12 +57,17 @@ void quicksort(int arr[],int s,int e){
 
 
 int main(){
+  
   int arr[] = {3,5,4,1,9,7};
   int n = 6;
+
+
   quicksort(arr,0,n-1);
   for(int i= 0;i<n;i++){
     cout << arr[i] << " ";
   }
   cout << endl;
+
+
   return 0;
 }
