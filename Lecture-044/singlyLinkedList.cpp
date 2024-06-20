@@ -56,7 +56,7 @@ void insertAtPosition(Node* &head,Node* &tail,int pos, int data){
     cnt++;
   }
   // inserting at end
-  if(temp->next=NULL){
+  if(temp->next==NULL){
     insertAtTail(tail,data);
     return;
   }
@@ -147,7 +147,7 @@ int main(){
   print(head);
 
 
-  insertAtPosition(head,tail, 4, 12);
+  insertAtPosition(head,tail, 2, 12);
   print(head);
 
   deleteNode(2,head);
